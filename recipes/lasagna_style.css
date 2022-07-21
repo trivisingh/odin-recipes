@@ -1,0 +1,22 @@
+.mainheading {
+    text-align: center;
+    font-family: "Times New Roman", sans-serif, Arial, Helvetica, sans-serif;
+    color: coral;
+    font-size: 48px;
+    text-decoration: underline;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 20%;
+}
+
+.subheading {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    color: darkolivegreen;
+    text-decoration: underline;
+}
